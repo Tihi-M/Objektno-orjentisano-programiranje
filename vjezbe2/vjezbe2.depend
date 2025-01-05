@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1736038111 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\vjezbe2\ugao.cpp
+	"Ugao.h"
+
+1736037457 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\vjezbe2\ugao.h
+	<math.h>
+	<iostream>
+
+1736038161 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\vjezbe2\main.cpp
+	<iostream>
+	"Ugao.h"
+
