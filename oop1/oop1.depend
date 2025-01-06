@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1736079700 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop1\skup.cpp
+	<iostream>
+
+1736094817 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop1\main.cpp
+	<iostream>
+	"Skup.h"
+
+1736094739 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop1\skup.h
+
