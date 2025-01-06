@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1736116380 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop2\main.cpp
+	<iostream>
+
+1736116615 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop2\datum.cpp
+	<iostream>
+	"Datum.h"
+
+1736121328 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop2\datum.h
+
+1736121678 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop2\datumvrijeme.cpp
+	<iostream>
+	"Datum.h"
+	"DatumVrijeme.h"
+
+1736121609 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop2\datumvrijeme.h
+	"Datum.h"
+
