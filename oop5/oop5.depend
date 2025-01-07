@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1736277021 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop5\student.cpp
+	<iostream>
+	"Student.h"
+
+1736276972 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop5\student.h
+
+1736291585 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop5\main.cpp
+	<iostream>
+	"Student.h"
+	"StudentLista.h"
+
+1736284812 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop5\include\student.h
+	<string>
+
+1736291547 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop5\include\studentlista.h
+	"Student.h"
+
+1736291639 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop5\src\student.cpp
+	<iostream>
+	"Student.h"
+
+1736291594 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop5\src\studentlista.cpp
+	"StudentLista.h"
+	"Student.h"
+	<iostream>
+
