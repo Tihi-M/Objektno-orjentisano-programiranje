@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1736354029 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop6\main.cpp
+	<iostream>
+	"Client.h"
+	"ClientQueue.h"
+
+1736350844 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop6\include\client.h
+	<iostream>
+
+1736350844 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop6\src\client.cpp
+	"Client.h"
+
+1736350880 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop6\src\clientqueue.cpp
+	"ClientQueue.h"
+	"Client.h"
+	<iostream>
+
+1736354154 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop6\include\clientqueue.h
+	"Client.h"
+
