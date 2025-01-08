@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1736297983 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop4\main.cpp
+	<iostream>
+	"Temperatura.h"
+	"TemperaturaLista.h"
+
+1736298980 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop4\include\temperatura.h
+
+1736299319 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop4\src\temperatura.cpp
+	<iostream>
+	"Temperatura.h"
+
+1736297448 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop4\include\temperaturalista.h
+	"Temperatura.h"
+
+1736298684 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop4\src\temperaturalista.cpp
+	"TemperaturaLista.h"
+	<iostream>
+	"Temperatura.h"
+

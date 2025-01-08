@@ -16,6 +16,7 @@ class Temperatura{
         char getJ() const;
         Temperatura();
         Temperatura(int,char,char);
+        Temperatura(const Temperatura&);
         void convertToCelsius();
         void convertToFarenheit();
         int compareTo(const Temperatura&);

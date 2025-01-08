@@ -63,6 +63,11 @@ Temperatura::Temperatura(int s,char z, char j){
     this->setZ(z);
 }
 
+Temperatura::Temperatura(const Temperatura& t){
+    this->setS(t.getS());
+    this->setJ(t.getJ());
+    this->setZ(t.getZ());
+}
 void Temperatura::convertToFarenheit() {
     if(this->getZ() == 'F')
         return;
@@ -74,6 +79,8 @@ void Temperatura::convertToFarenheit() {
         this->setZ('+');
     else
         this->setZ('-');
+        if(st < 0)
+            st*=-1;
     this->setS(st);
 }
 
@@ -88,26 +95,36 @@ void Temperatura::convertToCelsius() {
         this->setZ('+');
     else
         this->setZ('-');
+        if(st<0)
+            st*=-1;
     this->setS(st);
 }
 
 int Temperatura::compareTo(const Temperatura& t2){
+    Temperatura t1(this->getS(),this->getZ(),this->getJ());
     if(this->getJ() == t2.getJ()){
-        int val1 = this->trueVal();
+        int val1 = t1.trueVal();
         int val2 = t2.trueVal();
-        if(val1 > val2)
+        if(val1 > val2){
+            //delete t1;
             return 1;
-        else if(val1 < val2)
+        }
+        else if(val1 < val2){
+            //delete t1;
             return -1;
-        else return 0;
+        }
+        else {
+                //delete t1;
+                return 0;}
     }
-    else if(this->getJ() == 'C')
-        this->convertToFarenheit();
-    else this->convertToCelsius();
+    else if(this->getJ() == 'C'){
+        t1.convertToFarenheit();
+    }
+    else t1.convertToCelsius();
 
-    int val1 = this->trueVal();
+    int val1 = t1.trueVal();
     int val2 = t2.trueVal();
-
+    //delete t1;
     if(val1 > val2)
         return 1;
     else if(val1 < val2)
