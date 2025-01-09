@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1736424720 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop7\main.cpp
+	<iostream>
+	"Ugao.h"
+	"UgaoLista.h"
+
+1736422988 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop7\include\ugao.h
+
+1736424658 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop7\src\ugaolista.cpp
+	"UgaoLista.h"
+	<iostream>
+
+1736424413 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop7\include\ugaolista.h
+	"Ugao.h"
+
+1736423140 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop7\src\ugao.cpp
+	"Ugao.h"
+	<iostream>
+
