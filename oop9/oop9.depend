@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1736457769 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop9\main.cpp
+	<iostream>
+	"Vozilo.h"
+	"Motor.h"
+
+1736457527 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop9\include\vozilo.h
+	<iostream>
+
+1736457746 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop9\src\motor.cpp
+	"Motor.h"
+	<iostream>
+
+1736459200 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop9\include\motor.h
+	"Vozilo.h"
+	<iostream>
+
+1736457576 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop9\src\vozilo.cpp
+	"Vozilo.h"
+	<iostream>
+
+1736459232 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop9\src\kamion.cpp
+	"Kamion.h"
+	"Vozilo.h"
+	<iostream>
+
+1736459215 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop9\include\kamion.h
+	<iostream>
+	"Vozilo.h"
+
