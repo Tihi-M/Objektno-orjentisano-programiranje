@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1736426264 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop8\src\tijelo.cpp
+	"Tijelo.h"
+	<iostream>
+
+1736427822 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop8\include\tijelo.h
+	<iostream>
+
+1736428003 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop8\main.cpp
+	<iostream>
+	"Tijelo.h"
+	"Sfera.h"
+	"Valjak.h"
+
+1736427574 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop8\include\sfera.h
+	"Tijelo.h"
+
+1736427760 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop8\include\valjak.h
+	"Tijelo.h"
+	<iostream>
+
+1736426632 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop8\src\sfera.cpp
+	"Sfera.h"
+	<iostream>
+	<math.h>
+
+1736428031 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop8\src\valjak.cpp
+	"Valjak.h"
+	<iostream>
+	<math.h>
+
