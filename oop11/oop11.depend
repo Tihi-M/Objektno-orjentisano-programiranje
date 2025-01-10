@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1736531466 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop11\main.cpp
+	<iostream>
+	"Red.h"
+
+1736531710 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop11\src\red.cpp
+	"Red.h"
+	<iostream>
+
+1736531731 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop11\include\red.h
+	"Red.cpp"
+
+1736531580 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oop11\include\red.cpp
+	"Red.h"
+	<iostream>
+
