@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1736611658 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr3\main.cpp
+	<iostream>
+	"Vrijeme.h"
+	"Interval.h"
+
+1736611715 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr3\vrijeme.h
+	<iostream>
+
+1736611223 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr3\vrijeme.cpp
+	"Vrijeme.h"
+	<iostream>
+
+1736611690 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr3\interval.cpp
+	"Interval.h"
+	"Vrijeme.h"
+	<iostream>
+
+1736611690 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr3\interval.h
+	"Vrijeme.h"
+
