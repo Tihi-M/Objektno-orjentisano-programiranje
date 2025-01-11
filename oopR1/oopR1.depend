@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1736558210 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr1\main.cpp
+	<iostream>
+	"Datum.h"
+
+1736558358 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr1\datum.cpp
+	"Datum.h"
+	<iostream>
+
+1736558266 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr1\datum.h
+	<iostream>
+
