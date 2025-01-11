@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1736602749 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr2\main.cpp
+	<iostream>
+	"Ekipa.h"
+	"FudbalskaEkipa.h"
+
+1736601398 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr2\ekipa.h
+	<iostream>
+
+1736601330 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr2\ekipa.cpp
+	"Ekipa.h"
+	<iostream>
+	<string.h>
+
+1736602581 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr2\fudbalskaekipa.cpp
+	"FudbalskaEkipa.h"
+
+1736602288 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr2\fudbalskaekipa.h
+	"Ekipa.h"
+
