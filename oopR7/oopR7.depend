@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1736708603 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr7\ocjena.cpp
+	"Ocjena.h"
+	<iostream>
+
+1736708617 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr7\ocjena.h
+
+1736708623 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr7\main.cpp
+	<iostream>
+
+1736710569 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr7\student.cpp
+	"Student.h"
+	"Ocjena.h"
+
+1736710555 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr7\student.h
+	"Ocjena.h"
+	<iostream>
+
