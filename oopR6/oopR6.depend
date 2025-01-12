@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1736696988 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr6\main.cpp
+	<iostream>
+
+1736702771 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr6\array.cpp
+	"Array.h"
+	<iostream>
+
+1736702877 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr6\array.h
+
+1736705866 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr6\matrix.cpp
+	"Matrix.h"
+	"Array.h"
+	<iostream>
+
+1736705803 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr6\matrix.h
+	"Array.h"
+
