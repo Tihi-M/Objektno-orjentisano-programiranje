@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1736718512 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr8\main.cpp
+	<iostream>
+	"Student.h"
+	"StudentPostdiplomac.h"
+
+1736718039 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr8\student.cpp
+	"Student.h"
+	<iostream>
+
+1736718028 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr8\student.h
+
+1736718268 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr8\studentpostdiplomac.h
+	"Student.h"
+
+1736718520 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr8\studentpostdiplomac.cpp
+	"StudentPostdiplomac.h"
+	"Student.h"
+	<iostream>
+
