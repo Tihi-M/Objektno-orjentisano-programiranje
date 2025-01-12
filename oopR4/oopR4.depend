@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1736624416 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr4\main.cpp
+	<iostream>
+	"Valuta.h"
+	"KolicinaNovca.h"
+
+1736620419 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr4\valuta.h
+	<iostream>
+
+1736620467 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr4\valuta.cpp
+	"Valuta.h"
+	<string.h>
+
+1736624323 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr4\kolicinanovca.cpp
+	"KolicinaNovca.h"
+	"Valuta.h"
+
+1736624303 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr4\kolicinanovca.h
+	"Valuta.h"
+
