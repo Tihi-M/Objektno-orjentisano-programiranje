@@ -1,0 +1,11 @@
+#include "RijetkaMatrica."
+
+RijetkaMatrica::RijetkaMatrica()
+{
+    //ctor
+}
+
+RijetkaMatrica::~RijetkaMatrica()
+{
+    //dtor
+}

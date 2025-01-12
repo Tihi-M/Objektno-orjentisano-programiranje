@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1736641223 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr5\main.cpp
+	<iostream>
+	"String.h"
+
+1736641183 source:c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr5\string.cpp
+	"String.h"
+	<string.h>
+
+1736640619 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr5\string.h
+	<iostream>
+
+1736640619 c:\users\korisnik\desktop\tihi\github\objektno-orjentisano-programiranje\oopr5\\string.h
+	<iostream>
+
